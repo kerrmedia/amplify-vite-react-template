@@ -1,5 +1,7 @@
 ## AWS Amplify React+Vite Starter Template
 
+https://docs.amplify.aws/react/start/quickstart/
+
 This repository provides a starter template for creating applications using React+Vite and AWS Amplify, emphasizing easy setup for authentication, API, and database capabilities.
 
 ## Overview
@@ -23,3 +25,6 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
+
+#  Amplifi3d$c0tt
+
